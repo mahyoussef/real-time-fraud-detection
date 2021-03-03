@@ -1,5 +1,5 @@
 # real-time-fraud-detection
-![logo](real-time-fraud-detection.png)
+![logo](real-time-fraud-detection.PNG)
 
 Real Time Fraud Detection System based on "Stream Processing". The logic behind the fraud detection is as follows :
 * The transaction is considered as a fraud if there 're more than 10 transaction per minute with same customerId.
